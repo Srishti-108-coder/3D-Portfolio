@@ -10,6 +10,8 @@ window.addEventListener("scroll", () => {
         document.querySelector(".style-switcher").classList.remove("open");
     }
 })
+/* ========================== toggle style switcher ========================== */
+
 /* ====================== theme colors ====================== */
 const alternateStyles = document.querySelectorAll(".alternate-style");
 function setActiveStyle(color)
