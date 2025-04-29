@@ -27,7 +27,7 @@ const nav = document.querySelector(".nav"),
                 {
                     addBackSection(j);
                    // allSection[j].classList.add("back-section");
-                      // allSection[j].classList.add("back-section");
+                     
                 }
                 navList[j].querySelector("a").classList.remove("active");
             }
