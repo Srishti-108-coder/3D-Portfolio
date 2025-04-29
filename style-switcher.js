@@ -10,7 +10,7 @@ window.addEventListener("scroll", () => {
         document.querySelector(".style-switcher").classList.remove("open");
     }
 })
-/* ======================= theme colors ======================= */
+/* ====================== theme colors ====================== */
 const alternateStyles = document.querySelectorAll(".alternate-style");
 function setActiveStyle(color)
 {
@@ -25,7 +25,7 @@ function setActiveStyle(color)
         }
     })
 }
-/* ========================== theme light and dark mode ========================== */
+/* ========================= theme light and dark mode ========================= */
 const dayNight = document.querySelector(".day-night");
 dayNight.addEventListener("click", () => {
     dayNight.querySelector("i").classList.toggle("fa-sun");
