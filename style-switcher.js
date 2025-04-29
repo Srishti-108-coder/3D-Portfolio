@@ -12,6 +12,7 @@ window.addEventListener("scroll", () => {
 })
 
 /* ====================== theme colors ====================== */
+/* ====================== theme colors ====================== */
 const alternateStyles = document.querySelectorAll(".alternate-style");
 function setActiveStyle(color)
 {
