@@ -1,2 +1,2 @@
-# Digital-Portfolio
+# 3D-Portfolio
 Our SCM Project
