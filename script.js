@@ -8,7 +8,6 @@ loop:true
 })
  
 
-
 /* ===================== Aside ===================== */
 const nav = document.querySelector(".nav"),
     navList = nav.querySelectorAll("li"),
